@@ -4,4 +4,4 @@ This alarm clock web application project has been implemented using HTML, CSS, a
 
 This app. allows you to set multiple alarms and delete it was an when required.
 
-You can clone the repo. to start using the application.
+You can clone the repo. https://github.com/sonierk/alarm-clock.git to start using the application.
